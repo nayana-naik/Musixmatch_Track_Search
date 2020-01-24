@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InClass07</string>
+    <string name="tv_limit">Limit :</string>
+    <string name="btn_search">Search</string>
+    <string name="tv_sort_by">Sort by:</string>
+    <string name="rb_sort_by_track_rating">Track Rating</string>
+    <string name="rb_sort_by_artist_rating">Artist Rating</string>
+    <string-array name="sample_array">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+    </string-array>
+</resources>
